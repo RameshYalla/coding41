@@ -1,0 +1,38 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.body {
+  display: flex;
+  width: 60vw;
+}
+.l-nav {
+  background-color: #cbd5e1;
+  height: 45vh;
+  width: 25%;
+  padding: 10px;
+  margin-top: 10px;
+}
+.ul {
+  list-style-type: none;
+  padding: 0%;
+  padding-left: 20px;
+}
+
+.content {
+  width: 50%;
+  height: 45vh;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 5px;
+  background-color: #f1f5f9;
+}
+
+.ad {
+  border: 1px solid black;
+  height: 10vh;
+  width: 7vw;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

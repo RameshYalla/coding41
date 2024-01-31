@@ -1,0 +1,33 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.c-bg {
+  background-color: #475569;
+  background-size: cover;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding-left: 10vw;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.heading {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-size: 43px;
+}
+.checkbox {
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 10px;
+  cursor: pointer;
+  outline: none;
+}
+input {
+  margin-right: 10px;
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+  outline: none;
+}
